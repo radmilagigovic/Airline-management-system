@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/giga_/eclipse-workspace_new/Radmila/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/eclipse-workspace_new/Radmila/drools-core-6.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/eclipse-workspace_new/Radmila/kie-api-6.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/eclipse-workspace_new/Radmila/kie-internal-6.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/eclipse-workspace_new/Radmila/mvel2-2.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/eclipse-workspace_new/Radmila/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/New folder (2)/sqljdbc41.jar"/>
+	<classpathentry kind="lib" path="C:/Users/giga_/Desktop/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
